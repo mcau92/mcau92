@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-
 🔭 I’m currently working on Gruppo Euris S.p.A.
 
 
 📫 How to reach me:
     - Website: [micau92.dev](https://mcau92.github.io/cv-portfolio)
     - StackOverflow: [michael-cauduro.so](https://stackoverflow.com/users/10857151/michael-cauduro)
+
+
 <!--
 **mcau92/mcau92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
