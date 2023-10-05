@@ -1,25 +1,13 @@
-### Hi there 👋
+# Hello 👋 Welcome to my Github Profile
 
-🔭 I’m currently working on Gruppo Euris S.p.A.
+### Who am i?
+My name is Michael and i'm a Software Engineer
 
+### Shortcut About
+🔭 I’m currently working for <b>Gruppo Euris S.p.A. </b>
 
 📫 How to reach me:
 
-    - Website: [micau92.dev](https://mcau92.github.io/cv-portfolio)
-    - StackOverflow: [michael-cauduro.so](https://stackoverflow.com/users/10857151/michael-cauduro)
+- Website: [micau92.dev](https://mcau92.github.io/cv-portfolio)
+- StackOverflow: [michael-cauduro.so](https://stackoverflow.com/users/10857151/michael-cauduro)
 
-
-<!--
-**mcau92/mcau92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
