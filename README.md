@@ -4,6 +4,7 @@
 
 
 📫 How to reach me:
+
     - Website: [micau92.dev](https://mcau92.github.io/cv-portfolio)
     - StackOverflow: [michael-cauduro.so](https://stackoverflow.com/users/10857151/michael-cauduro)
 
