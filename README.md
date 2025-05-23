@@ -4,7 +4,7 @@
 My name is Michael and i'm a Software Engineer
 
 ### Shortcut About
-🔭 I’m currently working for <b>Gruppo Euris S.p.A. </b>
+🔭 I’m currently a Freelance IT Consultant
 
 📫 How to reach me:
 
